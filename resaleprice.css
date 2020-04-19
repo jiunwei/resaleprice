@@ -16,7 +16,7 @@ body,
   opacity: 0.5;
 }
 svg {
-  border: 1px solid red;
+  border: 1px solid black;
 }
 text {
   cursor: default;
